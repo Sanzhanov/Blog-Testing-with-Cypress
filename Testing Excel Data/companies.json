@@ -1,0 +1,62 @@
+[
+  {
+    "Company Name": "NovoTech",
+    "Product": "Robotics",
+    "City": "San Francisco",
+    "Email": "info@novotech.com"
+  },
+  {
+    "Company Name": "AquaFarms",
+    "Product": "Aquaculture",
+    "City": "Vancouver",
+    "Email": "info@aquafarms.net"
+  },
+  {
+    "Company Name": "BrightGenius",
+    "Product": "Educational",
+    "City": "New York",
+    "Email": "info@brightgenius.com"
+  },
+  {
+    "Company Name": "ZephyrTech",
+    "Product": "Clean Energy",
+    "City": "Sydney",
+    "Email": "info@zephyrtech.com"
+  },
+  {
+    "Company Name": "LunaSolutions",
+    "Product": "Healthcare",
+    "City": "Berlin",
+    "Email": "info@lunasolutions.net"
+  },
+  {
+    "Company Name": "FuegoLabs",
+    "Product": "Software",
+    "City": "Mexico City",
+    "Email": "info@fuegolabs.com"
+  },
+  {
+    "Company Name": "LuxeLiving",
+    "Product": "Home Decor",
+    "City": "Paris",
+    "Email": "info@luxeliving.fr"
+  },
+  {
+    "Company Name": "TerraForma",
+    "Product": "Environmental",
+    "City": "Toronto",
+    "Email": "info@terraformatech.com"
+  },
+  {
+    "Company Name": "SunShade",
+    "Product": "Apparel",
+    "City": "Los Angeles",
+    "Email": "info@sunshadewear.com"
+  },
+  {
+    "Company Name": "PixelNation",
+    "Product": "Gaming",
+    "City": "Tokyo",
+    "Email": "info@pixelnation.co.jp"
+  }
+]
