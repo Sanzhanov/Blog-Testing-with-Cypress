@@ -1,6 +1,6 @@
 <div align='center'>
 <p align="center"> 
-        <a href="https://medium.com/testing-with-cypress"><img src=".github\assets\cypress_logo_social.png" alt="header" width="100%"
+        <a href="https://medium.com/testing-with-cypress"><img src=".github\assets\cypress_logo_social.png" alt="header" width="75%"
    align="center"/> 
  </a></p></div>
  
@@ -8,13 +8,13 @@
 
 # **Blog "Testing with Cypress"** 📝
 
-This repository contains code snippets provided in my blog "Testing with Cypress" 🗂️
+This repository contains code snippets provided in my blog <a href="https://medium.com/testing-with-cypress">"Testing with Cypress"</a> 🗂️
 
 Check out the code and other data for the following articles:
 
 📌 <a href="https://github.com/Sanzhanov/Blog-Testing-with-Cypress/tree/main/Testing%20Excel%20Data">Testing Excel Data with Cypress</a>
 
-📌 <a href="">Selecting elements in Cypress tests: basic + advanced patterns (2 useful Cheatsheets)</a>
+📌 <a href="https://github.com/Sanzhanov/Blog-Testing-with-Cypress/tree/main/Selecting%20Elements">Selecting elements in Cypress tests: basic + advanced patterns (2 useful Cheatsheets)</a>
 
 📌 <a href="https://github.com/Sanzhanov/Blog-Testing-with-Cypress/blob/main/Tests%20optimization/recursion.ts">How to optimize Cypress tests using JavaScript abilities? (Part 2. Recursion)</a>
 
@@ -22,7 +22,7 @@ Check out the code and other data for the following articles:
 
 <br>
 
->The articles themselves are available directly on the <a href="">blog</a>.
+>The articles themselves are available directly on the <a href="https://medium.com/testing-with-cypress">blog</a>.
 
 <br>
 <div align='center'>
