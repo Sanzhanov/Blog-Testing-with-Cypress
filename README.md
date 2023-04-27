@@ -5,8 +5,10 @@
  </a></p></div>
  
 <br>
+<div align='center'>
 
 # **Blog "Testing with Cypress"** 📝
+</div>
 
 This repository contains code snippets provided in my blog <a href="https://medium.com/testing-with-cypress">"Testing with Cypress"</a> 🗂️
 
@@ -27,5 +29,5 @@ Check out the code and other data for the following articles:
 <br>
 <div align='center'>
 
-## ***Happy testing with Cypress !!!***
+### ***Happy testing with Cypress !!!***
 </div>
