@@ -1,0 +1,13 @@
+{
+    "name": "cypress-docker",
+    "description": "Running Cypress tests in Docker containers using various Docker images",
+    "scripts": {
+      "cy:open": "npx cypress open",
+      "cy:run": "npx cypress run"
+    },
+    "author": "Alex Sanzhanov",
+    "devDependencies": {
+      "cypress": "^12.12.0",
+      "typescript": "^5.0.4"
+    }
+  }
