@@ -3,18 +3,16 @@
         <a href="https://medium.com/testing-with-cypress"><img src=".github\assets\main.png" alt="header" width="75%"
    align="center"/> 
  </a></p></div>
- 
-<br>
 <div align='center'>
 
-# **Blog "Testing with Cypress"** 📝
+## **Blog "Testing with Cypress"** 📝
 </div>
 
 This repository contains code snippets provided in my blog <a href="https://medium.com/testing-with-cypress">"Testing with Cypress"</a> 🗂️
 
 Check out the code and other data for the following articles:
 
-📌 <a href="https://github.com/Sanzhanov/Blog-Testing-with-Cypress/tree/main/Testing%20Excel%20Data">Running Cypress tests in Docker containers using different Docker images</a>
+📌 <a href="https://github.com/Sanzhanov/Blog-Testing-with-Cypress/tree/main/Running%20Cypress%20tests%20in%20Docker%20containers">Running Cypress tests in Docker containers using different Docker images</a>
 
 📌 <a href="https://github.com/Sanzhanov/Blog-Testing-with-Cypress/tree/main/Testing%20Excel%20Data">Testing Excel Data with Cypress</a>
 
