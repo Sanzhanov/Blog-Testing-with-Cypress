@@ -1,6 +1,6 @@
 <div align='center'>
 <p align="center"> 
-        <a href="https://medium.com/testing-with-cypress"><img src=".github\assets\main.png" alt="header" width="75%"
+        <a href="https://medium.com/testing-with-cypress"><img src=".github\assets\main1.png" alt="header" width="75%"
    align="center"/> 
  </a></p></div>
 <div align='center'>
