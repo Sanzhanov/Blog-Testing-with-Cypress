@@ -12,6 +12,8 @@ This repository contains code snippets provided in my blog <a href="https://medi
 
 Check out the code and other data for the following articles:
 
+📌 <a href="https://github.com/Sanzhanov/Blog-Testing-with-Cypress/tree/main/Cross%20Browser%20Testing%20with%20Cypress%20in%20CI">Cross Browser Testing with Cypress in CI/CD using Docker</a>
+
 📌 <a href="https://github.com/Sanzhanov/Blog-Testing-with-Cypress/tree/main/Running%20Cypress%20tests%20in%20Docker%20containers">Running Cypress tests in Docker containers using different Docker images</a>
 
 📌 <a href="https://github.com/Sanzhanov/Blog-Testing-with-Cypress/tree/main/Testing%20Excel%20Data">Testing Excel Data with Cypress</a>
