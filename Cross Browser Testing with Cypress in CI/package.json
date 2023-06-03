@@ -1,0 +1,16 @@
+{
+  "name": "cypress-docker",
+  "description": "Running Cypress tests in Docker containers using various Docker images",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:run:chrome": "cypress run --browser chrome",
+    "cy:run:firefox": "cypress run --browser firefox",
+    "cypress-multi-browser": "cypress run --browser chrome --headed & cypress run --browser firefox --headed"
+  },
+  "author": "Alex Sanzhanov",
+  "devDependencies": {
+    "cypress": "^12.13.0",
+    "typescript": "^5.0.4"
+  }
+}
